@@ -1,0 +1,9 @@
+public class Marbles
+{
+    public static void setColour()
+    {
+        int count = 3;
+        
+        String colour = "purple";
+    }
+}
