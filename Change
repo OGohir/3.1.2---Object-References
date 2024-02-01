@@ -1,0 +1,8 @@
+public class Change
+{
+    public static void change()
+    {
+        String wearing = "polka dot";
+        wearing = "stripped";
+    }
+}
