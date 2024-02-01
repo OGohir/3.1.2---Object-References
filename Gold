@@ -1,0 +1,12 @@
+
+public class Dinner
+{
+    public static void makeReservation()
+    {
+        Reservation birthday = new Reservation();        
+        birthday.restaurant = "Mandarin";
+        birthday.people = 5;
+        birthday.timeHour = 6;
+        birthday.timeMinute = 30;
+    }
+}
